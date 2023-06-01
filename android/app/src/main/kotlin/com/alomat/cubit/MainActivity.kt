@@ -1,4 +1,4 @@
-package com.example.qubit
+package com.alomat.cubit
 
 import io.flutter.embedding.android.FlutterActivity
 

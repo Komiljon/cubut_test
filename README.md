@@ -1,6 +1,6 @@
-# qubit
+# cubit
 
-A new Flutter project. Qubit
+Тестируем cubit
 
 ## Getting Started
 
